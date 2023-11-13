@@ -18,6 +18,8 @@ def main():
             players.append(player)
 
     # print("Oliot:")
+    players = sorted(players, key=Player.get_points, reverse=True)
+
     print("Players from", nationality)
     print()
     for player in players:

@@ -7,4 +7,4 @@ v1.0.0
 v1.0.1
 v1.1.0
 
-Jostain syystä eivät näkyneet kun tein terminaalista?
+Jostain syystä eivät näy repositoriossa kun tein terminaalista?

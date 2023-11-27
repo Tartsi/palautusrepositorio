@@ -23,7 +23,7 @@ def main():
     for _ in range(0, 24):
         kauppa.lisaa_koriin(5)
 
-    kauppa.tilimaksu("Arto Vihavainen", "3425-1652")
+    kauppa.tilimaksu("Arto Vihava", "3425-1652")
 
     # kirjanpito
     for tapahtuma in kirjanpito.tapahtumat:

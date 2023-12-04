@@ -32,7 +32,7 @@ class Kayttoliittyma:
         elif komento == Komento.NOLLAUS:
             self._sovelluslogiikka.nollaa()
         elif komento == Komento.KUMOA:
-            pass
+            self._sovelluslogiikka.kumoa()
 
     def _suorita_komento(self, komento):
 
